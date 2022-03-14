@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Juan pablo castiblanco
+- 👀 I’m interested in languages as Python cause I love backend, in this I find 
+- something that make feel special my ideas the tools I have inside the program its like a challenge that I faced day by day
+- 🌱 I’m currently learning Python Django Git GitHub MySQL and more to get the knowledge to enjoy more when I get a real work and
+- my life will be to work in something I like
+- 💞️ I’m looking to collaborate on backed projects but Im willing to learn more about differents languages, it depends on the project's necessities 
+- 📫 How to reach me 
+- my cellphone number +57 304-297-0643ç
+- email: jpcc141999@gmail.com
+- GitHub profile juanpa1999
